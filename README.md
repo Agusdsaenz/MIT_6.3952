@@ -2,4 +2,4 @@
 
 ## Project Baseline 
 
-This includes the original prompt from the paper without changes 
+This includes the original prompt from the paper without changes. Angiography vs stress test, 1 case, male vs female
