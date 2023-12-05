@@ -7,3 +7,7 @@ This includes the original prompt from the paper without changes. Angiography vs
 ## Pleasant male 
 
 This prompt is the baseline prompt with the addition of 'pleasant' to the male case 
+
+## Unbiased prompt
+
+Trying to use a prompt to ask GPT to be unbiased- item 5 in prompt 
