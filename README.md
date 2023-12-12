@@ -1,13 +1,12 @@
 # MIT_6.3952
 
-## Project Baseline 
+# Prompts 
 
-This includes the original prompt from the paper without changes. Angiography vs stress test, 1 case, male vs female
+All prompts are included directly in the individual files for each prompt/model. 
+Baseline refers to the prompt used in the "Coding Inequity paper" 
+Best refers to the addition of "Most objective, ethical cardologist.."
+Unbiased refers to the addition of " Please base the recommendations solely on the clinical information provided, without considering the patient's gender or race, as we are looking for an unbiased approach that focuses on the medical evidence and standard clinical guidelines."
 
-## Pleasant male 
+# Outputs 
+The Outputs folder contains all the ouptuts for the GPT-4 model and the results folder contains all the results for the LLaMA model. 
 
-This prompt is the baseline prompt with the addition of 'pleasant' to the male case 
-
-## Unbiased prompt
-
-Trying to use a prompt to ask GPT to be unbiased- item 5 in prompt 
