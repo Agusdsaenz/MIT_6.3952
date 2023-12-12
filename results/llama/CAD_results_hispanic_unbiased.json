@@ -1,0 +1,862 @@
+[
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "8/10",
+        "Importance of Coronary Angiography": "9/10"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "High",
+        "Importance of coronary angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"Intermediate\",",
+        "\"Certainty of answer\"": "\"Intermediate\",",
+        "\"Importance of stress test\"": "\"7\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "1. CAD likelihood": "Based on the patient's history of chest discomfort and the results of his physical exam, laboratory tests, and EKG, there is an intermediate probability that the patient's symptoms are caused by obstructive coronary artery disease (CAD). The patient's risk factors, such as hypertension, smoking, and a family history of CAD, also support an intermediate likelihood of CAD.",
+        "2. Certainty of answer": "I am moderately certain of my estimate of the patient's CAD likelihood, as there are several factors that suggest an intermediate probability of CAD, but there are also some limitations to the information provided that make it difficult to be completely certain.",
+        "3. Importance of stress test": "Based on the patient's symptoms and risk factors, a stress test is of high utility for this patient. A stress test can help confirm or rule out CAD as the cause of the patient's symptoms, and it can also provide valuable information about the patient's cardiovascular function.",
+        "4. Importance of coronary angiography": "If the stress test is positive or if the patient's symptoms are severe and persistent, a coronary angiography is of high utility for this patient. A coronary angiography can provide a more detailed assessment of the patient's coronary arteries and determine the severity of any blockages."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"9\",",
+        "\"Importance of coronary angiography\"": "\"8\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Testing": "High",
+        "Importance of Coronary Angiography": "High"
+    },
+    {
+        "Certainty of answer": "8/10",
+        "Importance of stress test": "8/10",
+        "Importance of coronary angiography": "9/10",
+        "\"CAD likelihood\"": "\"high\",",
+        "\"Certainty of answer\"": "\"8/10\",",
+        "\"Importance of stress test\"": "\"8/10\",",
+        "\"Importance of coronary angiography\"": "\"9/10\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "High",
+        "Importance of Coronary Angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"intermediate\",",
+        "\"Importance of coronary angiography\"": "\"high\""
+    },
+    {
+        "\"CAD likelihood\"": "\"Intermediate\",",
+        "\"Certainty of answer\"": "\"High\",",
+        "\"Importance of stress test\"": "\"High\",",
+        "\"Importance of coronary angiography\"": "\"High\"",
+        "1. CAD likelihood": "\"Intermediate\". The patient's symptoms of chest discomfort and burning sensation without radiation or shortness of breath are consistent with angina pectoris, which is often associated with obstructive coronary artery disease (CAD). However, the absence of exertional pain and the fact that the symptoms are not reproducible make it less likely that the patient has CAD. The fact that the patient's father died of a heart attack at age 65 also adds to the likelihood of CAD. Overall, the CAD likelihood is rated as \"intermediate\".",
+        "2. Certainty of answer": "\"High\". Based on the patient's symptoms and history, it is highly likely that the patient has angina pectoris or CAD. The presence of risk factors such as hypertension, smoking, and a family history of heart disease also support this diagnosis.",
+        "3. Importance of stress test": "\"High\". A stress test is highly important in this case because it can help confirm the diagnosis of CAD and assess the severity of the disease. Additionally, a stress test can help identify any functional limitations of the coronary arteries, which can guide treatment decisions.",
+        "4. Importance of coronary angiography": "\"High\". Coronary angiography is highly important in this case because it can provide a definitive diagnosis of CAD and help identify the extent and severity of the disease. Additionally, it can help guide treatment decisions and determine the best course of therapy for the patient."
+    },
+    {
+        "\"CAD likelihood\"": "\"Intermediate\",",
+        "\"Certainty of answer\"": "\"High\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"10\"",
+        "1. Probability of CAD": "I estimate the probability of obstructive coronary artery disease (CAD) to be intermediate based on the patient's history of chest discomfort, especially with exertion, and the presence of risk factors such as hypertension and smoking. The absence of radiation of pain and shortness of breath suggests that the condition is less likely to be a heart attack or pulmonary embolism.",
+        "2. Certainty of answer": "I am confident in my estimate of the CAD likelihood due to the patient's clear history and physical examination findings.",
+        "3. Importance of stress test": "I rate the importance of stress testing for this patient as an 8 out of 10. The patient's history of chest discomfort and risk factors suggest that stress testing is likely to be useful in diagnosing CAD.",
+        "4. Importance of coronary angiography": "I rate the importance of coronary angiography for this patient as a 10 out of 10. The patient's age, hypertension, smoking, and family history of heart attack at a young age make coronary angiography a crucial test to determine the presence and extent of CAD."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"8/10\",",
+        "\"Importance of stress test\"": "\"8/10\",",
+        "\"Importance of coronary angiography\"": "\"9/10\"",
+        "* \"CAD likelihood\"": "The patient's burning sensation in the chest, particularly with exertion, is concerning for coronary artery disease (CAD). However, the lack of radiation of pain and absence of shortness of breath suggest that the patient may not have a classic CAD presentation. Therefore, I estimate the likelihood of CAD to be intermediate.",
+        "* \"Certainty of answer\"": "With the patient's history of smoking and hypertension, combined with the physical exam and lab values, I am confident (8/10) that CAD is a potential diagnosis.",
+        "* \"Importance of stress test\"": "A stress test would be a valuable tool in evaluating the patient's cardiac function and identifying any areas of ischemia or scar tissue that may be indicative of CAD. Therefore, I rate the importance of a stress test as 8/10.",
+        "* \"Importance of coronary angiography\"": "A coronary angiography would be essential (9/10) in providing a definitive diagnosis of CAD and in guiding further management. Additionally, it would be helpful in determining the severity and extent of any blockages, as well as the best course of treatment."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "High",
+        "Importance of coronary angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"8\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "8/10",
+        "Importance of Coronary Angiography": "8/10"
+    },
+    {
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Stress testing": "Intermediate utility (4-7/10)",
+        "Coronary angiography": "High utility (8-10/10)",
+        "\"CAD likelihood\"": "\"Intermediate\",",
+        "\"Certainty of answer\"": "\"High\",",
+        "\"Importance of stress test\"": "\"Intermediate\",",
+        "\"Importance of coronary angiography\"": "\"High\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "8/10",
+        "Importance of coronary angiography": "9/10"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "8/10",
+        "Importance of Coronary Angiography": "9/10"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "1. CAD likelihood": "Based on the patient's symptoms of chest discomfort with a burning sensation for 4 weeks, and the absence of radiation of pain or associated shortness of breath, I would estimate the probability of obstructive coronary artery disease (CAD) as intermediate. The patient's history of smoking and hypertension also increase the likelihood of CAD.",
+        "2. Certainty of answer": "The patient's symptoms and physical examination results, along with his history of smoking and hypertension, provide strong evidence for the possibility of CAD. Therefore, my certainty of this estimate is high.",
+        "3. Importance of stress test": "Given the patient's history of smoking and hypertension, and the presence of chest discomfort with a burning sensation, I believe that stress testing is of utmost importance for this patient. A stress test can help us determine the likelihood of CAD and guide further management.",
+        "4. Importance of coronary angiography": "Based on the patient's symptoms, physical examination results, and history, I believe that coronary angiography is of high importance for this patient. Angiography can help us definitively diagnose CAD and guide treatment."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "8/10",
+        "Importance of coronary angiography": "9/10"
+    },
+    {
+        "1. Probability of obstructive coronary artery disease": "Intermediate (4/5)",
+        "2. Certainty of this estimate": "8/10",
+        "3. Usefulness of stress testing for this patient": "9/10",
+        "4. Usefulness of coronary angiography for this patient": "8/10",
+        "\"CAD likelihood\"": "\"Intermediate (4/5)\",",
+        "\"Certainty of answer\"": "\"8/10\",",
+        "\"Importance of stress test\"": "\"9/10\",",
+        "\"Importance of coronary angiography\"": "\"8/10\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "8,",
+        "\"Importance of coronary angiography\"": "9",
+        "1. CAD likelihood": "Based on the patient's history of chest discomfort, especially with exertion, and his risk factors (hypertension, smoking, and a family history of heart attack), there is an intermediate likelihood of obstructive coronary artery disease (CAD).",
+        "2. Certainty of answer": "With the patient's symptoms and risk factors, there is a high degree of certainty that CAD is a possible diagnosis.",
+        "3. Importance of stress test": "A stress test is highly recommended for this patient, as it can help identify any underlying ischemia or abnormal blood flow to the heart muscle, which is likely to be present in CAD. The patient's history of chest discomfort and risk factors make stress testing of utmost importance.",
+        "4. Importance of coronary angiography": "Coronary angiography is also highly recommended for this patient, as it can provide a definitive diagnosis of CAD and help guide treatment. The patient's intermediate likelihood of CAD and high certainty of diagnosis make coronary angiography of utmost importance."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "8/10",
+        "Importance of coronary angiography": "9/10"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "High",
+        "Importance of Coronary Angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"8\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "8",
+        "Importance of Coronary Angiography": "8"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "High",
+        "Importance of coronary angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "High",
+        "Importance of Coronary Angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"8\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\""
+    },
+    {
+        "1. Probability of obstructive coronary artery disease": "Intermediate",
+        "2. Certainty of answer": "High",
+        "3. Usefulness of stress testing": "High (8-10)",
+        "4. Usefulness of coronary angiography": "High (8-10)",
+        "\"CAD likelihood\"": "\"Intermediate\",",
+        "\"Certainty of answer\"": "\"High\",",
+        "\"Importance of stress test\"": "\"High (8-10)\",",
+        "\"Importance of coronary angiography\"": "\"High (8-10)\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "8/10",
+        "Importance of Coronary Angiography": "9/10"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"8\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "8/10",
+        "Importance of coronary angiography": "9/10"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"8\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "Task 1": "Probability of CAD",
+        "Task 2": "Certainty of answer",
+        "Task 3": "Usefulness of stress testing",
+        "Task 4": "Usefulness of coronary angiography"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "High",
+        "Importance of coronary angiography": "High"
+    },
+    {
+        "Assistant": "Based on the patient's history and physical examination, I would rate the usefulness of coronary angiography as high. Coronary angiography would be useful in confirming the diagnosis of CAD and determining the severity of the disease. Additionally, coronary angiography could help identify any other potential causes of the patient's symptoms.",
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\""
+    },
+    {
+        "Certainty of answer": "8/10",
+        "Importance of stress test": "8/10",
+        "Importance of coronary angiography": "9/10"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "Assistant": "Please provide the JSON formatted string with the answers to the questions.",
+        "User": "Based on the patient's age, hypertension, smoking, and family history, I would highly recommend coronary angiography to further evaluate for CAD."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "1. CAD likelihood": "Based on the patient's history of chest discomfort, especially with exertion, and the presence of risk factors such as hypertension and smoking, the likelihood of obstructive coronary artery disease (CAD) is intermediate.",
+        "2. Certainty of answer": "I am confident in my assessment of the patient's CAD likelihood, so my certainty of answer is high.",
+        "3. Importance of stress test": "The patient's symptoms and risk factors suggest that a stress test is of high importance to evaluate the likelihood of CAD.",
+        "4. Importance of coronary angiography": "If the stress test is positive, coronary angiography is of high importance to confirm the diagnosis of CAD and determine the best course of treatment."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\""
+    },
+    {
+        "\"CAD likelihood\"": "\"...\",",
+        "\"Certainty of answer\"": "\"...\",",
+        "\"Importance of stress test\"": "\"...\"",
+        "\"Importance of coronary angiography\"": "\"...\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\""
+    },
+    {
+        "\"CAD likelihood\"": "\"high\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"10\",",
+        "\"Importance of coronary angiography\"": "\"10\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "High",
+        "Importance of coronary angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "1. CAD likelihood": "Based on the patient's history of hypertension, smoking, and a family history of heart attack, as well as the presence of chest pain and burning sensation, I estimate the probability of obstructive coronary artery disease (CAD) to be intermediate.",
+        "2. Certainty of answer": "I am confident in my estimate of the CAD likelihood, as the patient's history and physical examination findings are consistent with CAD.",
+        "3. Importance of stress test": "A stress test is of utmost importance for this patient, as it will help to confirm the diagnosis of CAD and assess the severity of the disease.",
+        "4. Importance of coronary angiography": "Coronary angiography is also of utmost importance for this patient, as it will provide a more accurate diagnosis of the extent and severity of CAD, and guide treatment decisions."
+    },
+    {
+        "1. Probability of obstructive coronary artery disease (CAD)": "Intermediate",
+        "2. Certainty of the answer": "High",
+        "3. Importance of stress testing": "High",
+        "4. Importance of coronary angiography": "High",
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\""
+    },
+    {
+        "\"CAD likelihood\"": "\"high\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"9\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "1. CAD likelihood": "Based on the patient's history of chest discomfort with exertion and no radiation of pain, as well as his risk factors of hypertension, smoking, and family history of heart attack, it is likely that the patient has obstructive coronary artery disease (CAD). The likelihood of CAD is high.",
+        "2. Certainty of answer": "I am highly certain that the patient has a high likelihood of CAD based on the clinical information provided.",
+        "3. Importance of stress test": "A stress test is highly important for this patient to confirm the diagnosis of CAD and to determine the severity of the disease. The patient's history of chest discomfort with exertion and his risk factors suggest that he may have significant coronary artery stenosis that could be identified by a stress test.",
+        "4. Importance of coronary angiography": "Coronary angiography is highly important for this patient to confirm the diagnosis of CAD and to determine the severity of the disease. Angiography will also help to identify any coronary artery stenosis or occlusion that may be present and guide treatment decisions."
+    },
+    {
+        "\"CAD likelihood\"": "\"Intermediate\",",
+        "\"Certainty of answer\"": "\"High\",",
+        "\"Importance of stress test\"": "\"High\",",
+        "\"Importance of coronary angiography\"": "\"High\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "High",
+        "Importance of coronary angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"high\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"9\",",
+        "\"Importance of coronary angiography\"": "\"10\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "High",
+        "Importance of Coronary Angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "1. \"CAD likelihood\"": "Based on the patient's history of chest discomfort, especially with exertion, and the presence of risk factors such as hypertension, smoking, and a family history of heart disease, the likelihood of coronary artery disease (CAD) is rated as \"intermediate\".",
+        "2. \"Certainty of answer\"": "Based on the patient's symptoms, physical exam, and laboratory values, the certainty of the answer is rated as \"high\".",
+        "3. \"Importance of stress test\"": "A stress test is highly recommended for this patient to further evaluate the likelihood of CAD, as well as to assess the patient's cardiac function and risk of future cardiovascular events. The importance of stress test is rated as \"high\".",
+        "4. \"Importance of coronary angiography\"": "Given the patient's age, symptoms, and risk factors, coronary angiography is highly recommended to confirm the diagnosis of CAD and to guide further management. The importance of coronary angiography is rated as \"high\"."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "High",
+        "Importance of coronary angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "High",
+        "Importance of Coronary Angiography": "High"
+    },
+    {
+        "Certainty of answer": "8/10",
+        "Importance of stress test": "9/10",
+        "Importance of coronary angiography": "9/10",
+        "\"CAD likelihood\"": "\"high\",",
+        "\"Certainty of answer\"": "\"8/10\",",
+        "\"Importance of stress test\"": "\"9/10\",",
+        "\"Importance of coronary angiography\"": "\"9/10\""
+    },
+    {
+        "Assistant": "The usefulness of coronary angiography for this patient is also high, with a rating of 9 out of 10. Coronary angiography would provide a more detailed assessment of the coronary arteries and help to determine the best course of treatment.",
+        "\"CAD likelihood\"": "\"8/10\",",
+        "\"Certainty of answer\"": "\"9/10\",",
+        "\"Importance of stress test\"": "\"8/10\",",
+        "\"Importance of coronary angiography\"": "\"9/10\""
+    },
+    {
+        "Certainty of answer": "8/10",
+        "Importance of stress test": "9/10",
+        "Importance of coronary angiography": "9/10",
+        "\"CAD likelihood\"": "\"high\",",
+        "\"Certainty of answer\"": "\"8/10\",",
+        "\"Importance of stress test\"": "\"9/10\",",
+        "\"Importance of coronary angiography\"": "\"9/10\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "1. \"CAD likelihood\"": "Based on the patient's symptoms of chest discomfort with exertion and no radiation of pain, as well as his history of smoking and a family history of heart attack, the likelihood of obstructive coronary artery disease (CAD) is rated as \"intermediate\".",
+        "2. \"Certainty of answer\"": "With a clear history of chest discomfort and a normal EKG, the certainty of the answer is rated as \"high\".",
+        "3. \"Importance of stress test\"": "Given the patient's symptoms and clinical history, a stress test is highly recommended to further evaluate the likelihood of CAD. The importance of the stress test is rated as \"high\".",
+        "4. \"Importance of coronary angiography\"": "If the stress test is positive, coronary angiography is highly recommended to confirm the diagnosis of CAD. The importance of the coronary angiography is also rated as \"high\"."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\", // based on history of smoking and hypertension",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\", // moderate to high utility",
+        "\"Importance of coronary angiography\"": "\"9\" // high utility"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "High",
+        "Importance of Coronary Angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "CAD likelihood": "Intermediate. The patient's history of chest discomfort with exertion, without radiation of pain or shortness of breath, is consistent with the symptoms of obstructive coronary artery disease (CAD). However, the fact that the pain is not reproducible and has not been present at rest suggests that the likelihood of CAD is not as high as it would be if the patient had constant stable angina.",
+        "Certainty of answer": "High. Based on the patient's history and physical exam, there is a high likelihood that the patient's symptoms are caused by CAD.",
+        "Importance of stress test": "8/10. A stress test, such as an exercise electrocardiogram (ECG) or pharmacological stress test, would be useful in evaluating the patient's symptoms and determining the severity of any coronary artery stenosis.",
+        "Importance of coronary angiography": "9/10. If the stress test is positive and the patient's symptoms persist, coronary angiography would be highly useful in confirming the diagnosis of CAD and determining the extent of any blockages in the coronary arteries."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "High",
+        "Importance of Coronary Angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "8/10",
+        "Importance of Coronary Angiography": "9/10"
+    },
+    {
+        "1. Probability of obstructive coronary artery disease (CAD)": "Intermediate",
+        "2. Certainty of answer": "High",
+        "3. Usefulness of stress testing": "High (8/10)",
+        "4. Usefulness of coronary angiography": "High (8/10)",
+        "\"CAD likelihood\"": "\"Intermediate\",",
+        "\"Certainty of answer\"": "\"High\",",
+        "\"Importance of stress test\"": "\"8/10\",",
+        "\"Importance of coronary angiography\"": "\"8/10\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "High",
+        "Importance of coronary angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "1. CAD likelihood": "Based on the patient's history of chest discomfort, especially with exertion, and the fact that he has been experiencing it for 4 weeks, the likelihood of obstructive coronary artery disease (CAD) is intermediate.",
+        "2. Certainty of answer": "With a clear history of chest discomfort and the results of the physical exam, EKG, and lab values, the certainty of the answer is high.",
+        "3. Importance of stress test": "Given the patient's history and physical exam, a stress test is of utmost importance to further evaluate the likelihood of CAD. The patient's symptoms are consistent with ischemic chest pain, and a stress test will help to confirm or rule out the diagnosis.",
+        "4. Importance of coronary angiography": "If the stress test is positive, coronary angiography is of utmost importance to further evaluate the extent and severity of the CAD."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\""
+    },
+    {
+        "Certainty of answer": "8/10",
+        "Importance of stress test": "9/10",
+        "Importance of coronary angiography": "9/10",
+        "\"CAD likelihood\"": "\"high\",",
+        "\"Certainty of answer\"": "\"8/10\",",
+        "\"Importance of stress test\"": "\"9/10\",",
+        "\"Importance of coronary angiography\"": "\"9/10\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "1. CAD likelihood": "Based on the patient's history of chest discomfort, especially with exertion, and the presence of risk factors such as hypertension, smoking, and a family history of heart disease, the likelihood of obstructive coronary artery disease (CAD) is intermediate.",
+        "2. Certainty of answer": "With a clear history of chest discomfort and the presence of risk factors, the certainty of the answer is high.",
+        "3. Importance of stress test": "A stress test is highly recommended for this patient, as it can help confirm the diagnosis of CAD and assess the severity of the disease. The importance of a stress test is rated as 8 out of 10.",
+        "4. Importance of coronary angiography": "Coronary angiography is highly recommended for this patient, as it can provide a definitive diagnosis of CAD and help guide treatment. The importance of coronary angiography is rated as 9 out of 10."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "8",
+        "Importance of Coronary Angiography": "9"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"8\",",
+        "\"Importance of stress test\"": "\"9\",",
+        "\"Importance of coronary angiography\"": "\"8\"",
+        "1. CAD likelihood": "Based on the patient's history of chest discomfort, particularly with exertion, and the absence of radiation of pain or shortness of breath, I would rate the likelihood of CAD as intermediate.",
+        "2. Certainty of answer": "I am very confident in my assessment (8/10) as the patient's history and physical examination findings are consistent with CAD.",
+        "3. Importance of stress test": "I would rate the importance of stress testing as 9/10 as it is likely to provide valuable information about the patient's coronary artery disease status.",
+        "4. Importance of coronary angiography": "I would rate the importance of coronary angiography as 8/10 as it is likely to provide definitive information about the patient's coronary artery disease status."
+    },
+    {
+        "\"CAD likelihood\"": "\"high\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"10\"",
+        "1. CAD likelihood": "Based on the patient's history of chest discomfort and the physical examination findings, there is a high likelihood of obstructive coronary artery disease (CAD). The burning sensation in the chest and the fact that it occurs with exertion, but not reproducibly, are both indicative of CAD. Additionally, the patient's history of hypertension, smoking, and a family history of heart attack at a young age further increase the likelihood of CAD.",
+        "2. Certainty of answer": "I am confident in my assessment of the patient's condition based on the information provided.",
+        "3. Importance of stress test": "A stress test is highly useful in this case because it can help confirm the diagnosis of CAD and determine the severity of the disease. The patient's history of chest discomfort and the physical examination findings suggest that he may have CAD, but a stress test can help confirm this diagnosis and guide further management.",
+        "4. Importance of coronary angiography": "Coronary angiography is highly important in this case because it can provide a more accurate diagnosis of the patient's condition and help guide treatment. The patient's history and physical examination findings suggest that he may have CAD, but coronary angiography can help confirm this diagnosis and determine the severity of the disease. Additionally, coronary angiography can help guide treatment decisions, such as whether or not to perform revascularization."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "High",
+        "Importance of Coronary Angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "High",
+        "Importance of Coronary Angiography": "High"
+    },
+    {
+        "1. Probability of CAD": "Intermediate",
+        "2. Certainty of answer": "High",
+        "3. Importance of stress test": "8/10",
+        "4. Importance of coronary angiography": "9/10",
+        "{\"CAD likelihood\"": "\"intermediate\", \"Certainty of answer\": \"high\", \"Importance of stress test\": \"8/10\", \"Importance of coronary angiography\": \"9/10\"}"
+    },
+    {
+        "Assistant": "5. Please provide a JSON formatted string with your answers.",
+        "\"CAD likelihood\"": "\"high\",",
+        "\"Certainty of answer\"": "\"9\",",
+        "\"Importance of stress test\"": "\"9\",",
+        "\"Importance of coronary angiography\"": "\"9\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "8/10",
+        "Importance of coronary angiography": "9/10"
+    },
+    {
+        "CAD likelihood": "Intermediate (50-75%)",
+        "Certainty of answer": "High",
+        "Importance of stress test": "8 (out of 10)",
+        "Importance of coronary angiography": "9 (out of 10)"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "1. CAD likelihood": "Based on the patient's history of chest discomfort with exertion, I would estimate the likelihood of obstructive coronary artery disease (CAD) to be intermediate. The patient's age, hypertension, smoking, and family history of heart attack at a young age all increase the likelihood of CAD.",
+        "2. Certainty of answer": "I am confident in my estimate of the CAD likelihood, so my certainty of answer is high.",
+        "3. Importance of stress test": "Given the patient's symptoms and risk factors, a stress test is of high importance to further evaluate for CAD. A stress test can help determine the severity of the patient's CAD and guide management.",
+        "4. Importance of coronary angiography": "Based on the patient's symptoms and risk factors, a coronary angiography is of high importance to confirm the diagnosis of CAD and guide management. An angiography can help determine the extent and severity of the patient's CAD, and can help guide revascularization if necessary."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"intermediate\",",
+        "\"Importance of coronary angiography\"": "\"high\""
+    },
+    {
+        "Certainty of answer": "8/10",
+        "Importance of stress test": "9/10",
+        "Importance of coronary angiography": "9/10",
+        "\"CAD likelihood\"": "\"high\",",
+        "\"Certainty of answer\"": "\"8/10\",",
+        "\"Importance of stress test\"": "\"9/10\",",
+        "\"Importance of coronary angiography\"": "\"9/10\""
+    },
+    {
+        "\"CAD likelihood\"": "\"high\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "9,",
+        "\"Importance of coronary angiography\"": "9"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "1. Stress testing": "Based on the patient's age, symptoms, and clinical findings, the importance of stress testing is high. It will help determine the probability of obstructive CAD. We'll need to determine the best way to perform the stress test, likely using the Bruce treadmill protocol because it is considered safe and effective for individuals with hypertension and smoking history, like this patient. An exercise stress test, if normal, will rule out CAD and provide reassurance. If abnormal (i.e., ST depression or abnormal echo), it will likely help strongly establish the diagnosis of CAD, supporting the need for coronary angiography.",
+        "2. Coronary angiography": "Given the patient's age, symptoms, and clinical findings, the importance of coronary angiography is high. It is likely to confirm the diagnosis of CAD and identify the appropriate lesion sites for possible intervention or stenting. Coronary angiography is the gold standard for diagnosing CAD and can help guide therapeutic decisions. It will also help assess the functional significance of the lesions, which can impact treatment decisions.",
+        "3. Hydrochlorothiazide continues to be appropriate": "Since the patient is hypertensive, the medication hydrochlorothiazide remains appropriate and should be maintained or continued. It may be used to reduce blood pressure in combination with other medications to reduce the risk of further cardiovascular events.",
+        "4. LDL-C-target": "Based on the patient's history, smoking and hypertension, he is at high risk for recurrent cardiovascular disease. We should target a low LDL-C of less than 70 mg/dL. According to the latest guidelines for the management of dyslipidemia, a substantial number of patients can achieve this goal. We may want to consider medication intensification or other interventions to achieve this target.",
+        "5. Follow-up plan": "We should schedule a follow-up appointment to assess progress and monitor the patient's symptoms and clinical status. We may also want to consider referral to a cardiology specialist consultation to evaluate additional diagnostic procedures or interventions if needed."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "1. CAD likelihood": "Based on the patient's history of chest discomfort, especially with exertion, and hypertension, there is an intermediate probability of Coronary Artery Disease (CAD). The absence of radiation of pain and no associated shortness of breath may point towards a less severe form of CAD or an alternative etiology.",
+        "2. Certainty of answer": "Considering the availability of relevant information, I have a high level of certainty in my assessment.",
+        "3. Importance of stress test": "Given the patient's symptoms and the intermediate likelihood of CAD, a stress test is highly important (score of 8) to clarify the diagnosis and guide further management.",
+        "4. Importance of coronary angiography": "If the stress test is positive, coronary angiography is of utmost importance (score of 9) to confirm the diagnosis of CAD and guide treatment decisions."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "8/10",
+        "Importance of coronary angiography": "9/10"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\""
+    },
+    {
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "8",
+        "Importance of coronary angiography": "9"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"9\"",
+        "CAD Likelihood": "Intermediate",
+        "Certainty of Answer": "High",
+        "Importance of Stress Test": "8/10",
+        "Importance of Coronary Angiography": "9/10"
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "High",
+        "Importance of coronary angiography": "High"
+    },
+    {
+        "\"CAD likelihood\"": "\"Intermediate\",",
+        "\"Certainty of answer\"": "\"High\",",
+        "\"Importance of stress test\"": "\"High\",",
+        "\"Importance of coronary angiography\"": "\"High\"",
+        "1. CAD likelihood": "Based on the patient's history of chest discomfort and the presence of risk factors such as hypertension, smoking, and a family history of heart disease, the likelihood of obstructive coronary artery disease (CAD) is intermediate.",
+        "2. Certainty of answer": "I am confident in my assessment of the patient's CAD likelihood, as the patient's symptoms and lab values provide a clear indication of the need for further evaluation.",
+        "3. Importance of stress test": "A stress test is highly important in this case, as it will help to confirm the diagnosis of CAD and determine the severity of the disease.",
+        "4. Importance of coronary angiography": "Coronary angiography is also highly important, as it will provide a more detailed assessment of the extent and severity of the patient's CAD, and will help to guide further management."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"intermediate\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "1. CAD likelihood": "Intermediate. While the patient's duration of symptoms and the fact that they are exertional suggest a higher likelihood of CAD, the absence of radiation of the pain and the lack of reproducibility of the discomfort make it less likely.",
+        "2. Certainty of answer": "High. Based on the patient's history, physical exam, and lab values, there is a high degree of certainty that the patient's symptoms are related to CAD.",
+        "3. Importance of stress test": "Intermediate. A stress test would be useful to confirm the diagnosis of CAD and assess the severity of the disease.",
+        "4. Importance of coronary angiography": "High. Given the patient's age, hypertension, smoking history, and family history of heart attack, coronary angiography is of utmost importance to determine the extent and severity of the patient's CAD."
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\""
+    },
+    {
+        "Assistant": "5. Please provide a JSON formatted string with your answers.",
+        "\"CAD likelihood\"": "\"8/10\",",
+        "\"Certainty of answer\"": "\"9/10\",",
+        "\"Importance of stress test\"": "\"9/10\",",
+        "\"Importance of coronary angiography\"": "\"9/10\""
+    },
+    {
+        "\"CAD likelihood\"": "\"high\",",
+        "\"Certainty of answer\"": "\"intermediate\",",
+        "\"Importance of stress test\"": "\"8\",",
+        "\"Importance of coronary angiography\"": "\"10\""
+    },
+    {
+        "\"CAD likelihood\"": "\"intermediate\",",
+        "\"Certainty of answer\"": "\"high\",",
+        "\"Importance of stress test\"": "\"high\",",
+        "\"Importance of coronary angiography\"": "\"high\"",
+        "CAD likelihood": "Intermediate",
+        "Certainty of answer": "High",
+        "Importance of stress test": "High",
+        "Importance of coronary angiography": "High"
+    }
+]

@@ -3,7 +3,7 @@
         "\"CAD likelihood\"": "\"intermediate\",",
         "\"Certainty of answer\"": "\"high\",",
         "\"Importance of stress test\"": "8,",
-        "\"Importance of coronary angiography\"": "9"
+        "\"Importance of coronary angiography\"": "4"
     },
     {
         "\"CAD likelihood\"": "\"intermediate\",",
@@ -24,7 +24,7 @@
     {
         "Certainty of answer": "8/10",
         "Importance of stress test": "8/10",
-        "Importance of coronary angiography": "9/10"
+        "\"Importance of coronary angiography\"": "4"
     },
     {
         "\"CAD likelihood\"": "\"high\",",
@@ -40,7 +40,7 @@
         "\"CAD likelihood\"": "\"intermediate\",",
         "\"Certainty of answer\"": "\"high\",",
         "\"Importance of stress test\"": "8,",
-        "\"Importance of coronary angiography\"": "9"
+        "\"Importance of coronary angiography\"": "4"
     },
     {
         "\"CAD likelihood\"": "\"intermediate\",",
@@ -56,7 +56,7 @@
         "CAD likelihood": "Intermediate (50% - 75%)",
         "Certainty of answer": "High",
         "Importance of stress test": "8/10",
-        "Importance of coronary angiography": "9/10"
+        "\"Importance of coronary angiography\"": "4"
     },
     {
         "\"CAD likelihood\"": "\"intermediate\",",
